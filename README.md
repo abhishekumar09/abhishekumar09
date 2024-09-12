@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **E-Commerce website**
 
-- 🌱 I’m currently learning **Mongodb, SQL**
+- 🌱 I’m currently learning **Prisma or OMR**
 
-- 💬 Ask me about **HTML , CSS, Bootstrap,JavaScript ,React, Node**
+- 💬 Ask me about **HTML , CSS, Bootstrap,JavaScript, TypeScript ,React, Node, Mongodb, SQL**
 
 - 📫 How to reach me **2003abhishek.09@gmail.com**
 
