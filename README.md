@@ -1,6 +1,6 @@
 ![logo](https://github.com/abhishekumar09/abhishekumar09/blob/main/githubBanner.jpg)
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/52360eefe76c22065390888f3ecd482680f3597321201b7610a79a2349af0b32/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3832382f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekumar09&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekumar09" /> </p>
