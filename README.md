@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **E-Commerce website**
 
-- 🌱 I’m currently learning **Prisma or OMR**
+- 🌱 I’m currently learning **Prisma or ORM**
 
 - 💬 Ask me about **HTML , CSS, Bootstrap,JavaScript, TypeScript ,React, Node, Mongodb, SQL**
 
